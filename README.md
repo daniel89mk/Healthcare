@@ -14,6 +14,7 @@ It could be not very accurate regression analysis but let's see what we can find
 * First Week of each month: 
     * The dollar amounts that we collected were floating around between $400,000 and $850,000.
     * The number from the first week of September 2021 was the lowest.
+    
 ![first_week_php](first_week_php.png)
 
 
